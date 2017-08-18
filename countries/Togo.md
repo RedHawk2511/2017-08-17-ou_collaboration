@@ -1,10 +1,9 @@
 7,756,937
 ##Togo
 ## population
-7,
-
+Lome
 ## capital
-
+French
  
 ## official language
 
