@@ -6,9 +6,12 @@
 Tbilisi
  
 ## official language
-Georgia
+Georgian
 
 ## interesting trivia
-Also known as Sakartvelo
+Also known as Sakartvelo.
+Georgia has two northern regions currently occupied by Russia.
+The birthplace of Joseph Stalin was Gori, Georgia
+
 
 
