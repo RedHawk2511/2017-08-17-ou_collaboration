@@ -11,6 +11,6 @@ Islamabad
 Urdu
 
 ## interesting trivia
-Known for produing terrorists
+
 
 
