@@ -1,14 +1,14 @@
 ##Botswana
-## population
+## population 2,250,000
 
 
-## capital
+## capital Gabrone
 
  
-## official language
+## official language English
 
 
-## interesting trivia
+## interesting trivia Main Export is Diamonds
 
 
 
