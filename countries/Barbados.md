@@ -1,6 +1,7 @@
 ##Barbados
 ## population
 
+482150
 
 ## capital
 
@@ -9,6 +10,8 @@
 
 
 ## interesting trivia
+
+none
 
 
 
